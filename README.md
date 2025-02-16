@@ -13,4 +13,4 @@
 - WebSocket API - Self Hosted in a VM
 
 - Strapi url : https://grateful-birds-a397c0a882.strapiapp.com
-- websocket url : ws://ec2-3-108-64-113.ap-south-1.compute.amazonaws.com:4000
+- websocket url : wss://whitecar.ddnsking.com/socket.io/?EIO=4&transport=websocket
